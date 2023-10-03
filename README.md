@@ -9,11 +9,11 @@ Play comes with all essential sections and elements a complete website needs, ad
 ### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
 
 
-### [🚀 View Demo](https://preview.uideck.com/items/play-bootstrap/)
+### [🚀 View Demo](https://websiteconsultant.github.io/website.github.io/)
 
-### [⬇️ Download Now](https://links.uideck.com/play-bootstrap-download)
+### [⬇️ Download Now](https://github.com/WebsiteConsultant/website.github.io.git)
 
-[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://preview.uideck.com/items/play-bootstrap/)
+[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://websiteconsultant.github.io/website.github.io/)
 
 
 
